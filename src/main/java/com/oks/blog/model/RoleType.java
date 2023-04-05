@@ -1,2 +1,5 @@
-package com.oks.blog.model;public enum RoleType {
+package com.oks.blog.model;
+
+public enum RoleType {
+    USER,ADMIN
 }
